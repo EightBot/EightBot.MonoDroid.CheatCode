@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="internalOnly" package="com.eightbot.cheatcode" android:versionCode="1" android:versionName="Toasty">
+  <uses-sdk android:targetSdkVersion="15" />
+  <application android:theme="@android:style/Theme.Holo.Light" android:label="Code Tester" android:icon="@drawable/icon">
+  </application>
+</manifest>
